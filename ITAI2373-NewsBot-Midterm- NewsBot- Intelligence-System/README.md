@@ -1,1 +1,5 @@
+ITAI2373_NewsBot_Midterm - NewsBot Intelligence System
 
+Objective: Is to develop a NewsBot Intelligence System that uses Natural Language Processing (NLP) and machine learning to analyze news articles. The Goal is to combine the NLP techniques we learned in class into one working system. NewsBot can automatically classify news articles, analyze sentiment, identify named entities, and examine grammatical patterns. The system is also useful for news organizations and businesses that need to process large amounts of news content.
+
+https://github.com/ElhamTimory/ITAI2373_NewsBot_Midterm
