@@ -11,3 +11,11 @@ The Goal is to combine the NLP techniques we learned in class into one working s
 The system is also useful for news organizations and businesses that need to process large amounts of news content.
 
 https://github.com/ElhamTimory/ITAI2373_NewsBot_Midterm
+
+L02 - NLP Processing Techniques
+
+Lab 04: Text Representation
+
+Lab 05: Part-of-Speech Tagging in the Real World
+
+L07 Sentiment and Emotion Analysis in the Real World
